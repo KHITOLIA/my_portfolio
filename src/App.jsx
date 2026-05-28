@@ -62,7 +62,7 @@ export default function App() {
               <Github size={18} /> GitHub
             </a>
 
-            <a href="/resume.pdf" download>
+            <a href="https://github.com/KHITOLIA/Resume/blob/main/Tushar_Khitoliya_resume.pdf.pdf" download>
               <Download size={18} /> Resume
             </a>
           </div>
